@@ -95,14 +95,5 @@ python-dotenv
 requests
 pydantic
 
-📌 Future Improvements
 
-Add more tools:
-News lookup
-Stock prices
-Calculator
-Web search
-Add LangGraph-based version
-Convert into a FastAPI backend
-Add memory persistence
 
